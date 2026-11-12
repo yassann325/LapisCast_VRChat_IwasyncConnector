@@ -222,7 +222,7 @@ namespace LapisCastClockConnector {
             }
             // Current Stream Timestamp
             double streamTime = (double)value / 1000;
-            double stream_Unity_DiffTime = streamTime - Time.time;
+            double stream_Unity_DiffTime = streamTime - Time.unscaledTime;
 
             if (ForceApplyTime)
             {
