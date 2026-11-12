@@ -1,0 +1,18 @@
+{
+  "name": "net.yassann.lapiscast.streamclockconnector.iwasync",
+  "displayName": "LapisCastIwasyncCloclConnector",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.10.6"
+  },
+  "author": {
+    "name": "yassann",
+    "email": "yassann456@gmail.com",
+    "url": "https://x.com/yassann357"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "E:\\lapis\\LapisCast_VRChat_IwasyncConnector\\Packages\\net.yassann.lapiscast.streamclockconnector.iwasync"
+}
