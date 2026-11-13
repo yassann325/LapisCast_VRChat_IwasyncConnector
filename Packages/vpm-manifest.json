@@ -1,1 +1,26 @@
-{"dependencies": {}, "locked": {}}
+{
+  "dependencies": {
+    "net.yassann.lapiscast": {
+      "version": "0.7.0-alpha0.2"
+    },
+    "com.vrchat.worlds": {
+      "version": "3.10.1"
+    }
+  },
+  "locked": {
+    "net.yassann.lapiscast": {
+      "version": "0.7.0-alpha0.2",
+      "dependencies": {}
+    },
+    "com.vrchat.worlds": {
+      "version": "3.10.1",
+      "dependencies": {
+        "com.vrchat.base": "3.10.1"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.10.1",
+      "dependencies": {}
+    }
+  }
+}
